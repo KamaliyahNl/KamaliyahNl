@@ -13,7 +13,7 @@ I'm Nur Laila Kamaliyah, a Development Economics graduate passionate about Suppl
 [![EViews](https://img.shields.io/badge/EViews-13-blue?style=flat-square)](https://www.eviews.com/)
 
 ### 📊 Software & Skills
-* **Econometrics:** EViews (ARDL, ECM, Bounds Testing)
+* **Econometrics:** EViews (ARDL, ECM, Regression Analysis, Bounds Testing)
 * **Programming:** Python
 * **Data & Spreadsheet:** Microsoft Excel, Google Sheets
 
